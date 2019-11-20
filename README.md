@@ -5,7 +5,7 @@ em versões mais recentes fazendo algumas alterações.
 Biblitecas e Componentes utilizados
 
 - Indy 10
-- Json Delhi Library
+- JSON Delphi Library
 
 E claro vai precisar das biblitecas openssl para rodar. O exemplo está no repositório, tenha uma conta zenvia e faça os testes.
 
